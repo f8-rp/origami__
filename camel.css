@@ -1,0 +1,25 @@
+.item{
+    text-align:center;
+    background-image:url(download.jpg);
+}
+
+img{
+    border: 10px solid white;
+    background-color:aqua;
+}
+
+p{
+    font-size: 20px;
+}
+
+.grid{
+    background-color: lightgrey;
+    margin-left: 500px;
+    margin-right: 500px;
+    border:20px solid lightgrey;
+    border-radius:20px;
+}
+
+*{
+    font-family:sans-serif;
+}

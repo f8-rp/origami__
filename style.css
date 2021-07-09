@@ -1,0 +1,27 @@
+.menu{
+    background-image: url(download.jpg);
+    text-align:center;
+}
+
+.info{
+    text-align:center;
+}
+
+a{
+    color:hotpink;
+    font-size: 20px;
+}
+
+*{
+    font-family:sans-serif
+}
+p{
+    font-size:15px;
+}
+
+.imagess{
+    border:10px solid lightcoral;
+    border-radius: 20px; 
+    background-color: lightcoral;
+    
+}
